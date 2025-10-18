@@ -73,21 +73,9 @@
 
 ---
 
-## 📸 Screenshots *(optional)*
-
-*You can include screenshots here to showcase the app interface.*
-
----
 
 ## 📝 License
 
 Educational project — feel free to use, modify, and build upon it.
 
----
-
-## 🚀 Ideas for Extensions
-
-* Filter expenses by date or category
-* Add charts using `javafx.scene.chart`
-* Export reports to PDF
 
