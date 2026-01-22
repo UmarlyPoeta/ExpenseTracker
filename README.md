@@ -1,3 +1,5 @@
+# README created with Chat GPT
+
 # 💸 Expense Tracker (JavaFX)
 
 **Expense Tracker** is a simple desktop application built with Java and JavaFX that allows users to log, view, and analyze their personal expenses.
